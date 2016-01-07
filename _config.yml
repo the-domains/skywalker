@@ -1,0 +1,28 @@
+name: skywalker
+favicon: null
+layout_spectrum: 0.6055760749150068
+typography_spectrum: 0.6844948444049805
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.9280531217809767
+  lightness: 0.2575661295559257
+  saturation: 0.5265670041553676
+  rhythmicContrast: 0.004140488104894757
+purpose: []
