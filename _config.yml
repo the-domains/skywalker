@@ -1,9 +1,7 @@
-favicon: null
 name: skywalker
-opengraph:
-  image: null
-  type: null
-  appId: null
+favicon: null
+layout_spectrum: 0.49707
+typography_spectrum: 0.4472948
 collections:
   - index:
       path: /
@@ -16,25 +14,27 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-purpose: []
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.5265670041553676
-  brandStrength: 0.9280531217809767
-  lightness: 0.2575661295559257
   brandColors:
     - '#162D35'
     - '#A7B9C5'
     - '#8293A4'
     - '#5E7483'
     - '#254551'
+  brandStrength: 0.9280531217809767
+  lightness: 0.2575661295559257
+  saturation: 0.5265670041553676
   rhythmicContrast: 0.004140488104894757
-typography_spectrum: 0.4472948
-layout_spectrum: 0.5685635
-analytics:
-  twitter: null
-  google: null
-  facebook: null
-cta:
-  bucket: null
-  version: null
-  domain: null
+purpose: []
